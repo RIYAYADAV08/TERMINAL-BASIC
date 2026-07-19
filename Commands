@@ -55,6 +55,8 @@ Ex - grep "Hello" index.html
 16.history
 Displays the list of previously executed commands.
 
+17.rm -rf → Removes any folder (directory), even if it contains files and subfolders, without asking for confirmation.
+
 
 
 

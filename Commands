@@ -33,7 +33,7 @@ Copies a file from one location to another.
 Ex -copy resume.pdf backup.pdf
 
 ren(windows)/mv(linux)
-It is used to rename the file and folder.
+It is used to rename the file or folder.
 Ex -ren test.txt notes.txt
 
 del(windows)/rm(linux)
